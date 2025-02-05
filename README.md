@@ -1,4 +1,4 @@
-# 🌟 Excel-Sales-Analytics
+# 🌟 AtliQ Sales Insights
 **AtliQ Hardware's Comprehensive Sales Analytics Solution** 📊
 
 ---
