@@ -83,3 +83,5 @@ This project demonstrates the power of data-driven insights in improving sales p
 
 ---
 
+## 📬 Connect with Me
+Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/ekanshisaxena/)** or check out my **[GitHub](https://github.com/its-ekanshi/)** for more projects.
